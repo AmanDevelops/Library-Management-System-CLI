@@ -1,0 +1,4 @@
+rich==13.7.1
+fuzzywuzzy==0.18.0
+fpdf==1.7.2
+requests==2.32.3
